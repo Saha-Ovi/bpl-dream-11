@@ -10,7 +10,7 @@ const NavBar = () => {
                    <a href="/"><img src={navImg}alt="" /></a>
                 </div>
                 <div className="flex gap-6 justify-center items-center">
-                     <ul className='list-none flex gap-6 items-center'>
+                     <ul className='hidden md:flex gap-6 items-center list-none '>
                             <li className='style'><a href="">Home</a></li>
                             <li><a href="">Fixture</a></li>
                             <li><a href="">Teams</a></li>
