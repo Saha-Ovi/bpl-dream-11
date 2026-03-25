@@ -24,7 +24,7 @@ const Banner = () => {
                     <div className="max-w-5xl">
                         <h1 className="mb-5 text-4xl font-bold">Assemble Your Ultimate Dream 11 Cricket Team</h1>
                         <p className="mb-5 text-2xl">Beyond Boundaries Beyond Limits </p>
-                        <button className="btn btn-active btn-warning">Claim Free Credit</button>
+                        <button className="btn bg-[#E7FE29] border border-[#E7FE29]">Claim Free Credit</button>
                     </div>
                     </div>
                 </div>

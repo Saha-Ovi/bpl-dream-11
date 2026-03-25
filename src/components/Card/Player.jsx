@@ -1,36 +1,18 @@
 import React from 'react';
-import { FaFlag, FaUser } from 'react-icons/fa';
+import Card from '../Ui/Card';
 
-const Player = ({ player }) => {
-    console.log(player);
+
+
+const Player = ({ playerData}) => {
+    // console.log(playerData);
     return (
-        <div>
-            <div className="card bg-base-100 shadow-sm">
-                <figure>
-                    <img className='w-[60%]' src={player.image}
-                        alt={player.alt} />
-                </figure>
-                <div className="card-body">
-                    <h2 className="card-title"><FaUser />{player.name}</h2>
-                    <div className='flex justify-between items-center'>
-                         <div className='flex items-center gap-2'>
-                            <FaFlag/>
-                            <h2>{player.country}</h2>
-                         </div>
-                        <h2 className='badge badge-base font-bold'>{player.role}</h2>
-                    </div>
-                     <div className="divider"></div>
-                    <p className='font-extrabold'>Rating : {player.rating}</p>
-                    <div className='flex justify-between'>
-                        <p className='font-bold'> {player.batting_style} </p>
-                        <p className='text-right font-bold'> {player.bowling_style} </p>
-                    </div>
-                    <div className="card-actions justify-between items-center">
-                        <p className='font-semibold text-md'>Price: {player.price} </p>
-                        <button className="btn btn-base">Choose Player</button>
-                    </div>
-                </div>
-            </div>
+        <div >
+             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-4'>
+            {
+                playerData.map(player=><Card key={player.id} player={player}></Card>)
+            }
+            
+            </div> 
         </div>
     );
 };
