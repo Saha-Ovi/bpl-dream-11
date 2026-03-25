@@ -3,7 +3,7 @@ import './App.css'
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers'
 import Banner from './components/Banner/Banner'
 import NavBar from './components/NavBar/NavBar'
- import { ToastContainer, toast } from 'react-toastify';
+ import { ToastContainer } from 'react-toastify';
 
 const fetchPlayer= async()=>
 {
