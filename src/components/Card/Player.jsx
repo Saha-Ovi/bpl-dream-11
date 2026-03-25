@@ -3,13 +3,13 @@ import Card from '../Ui/Card';
 
 
 
-const Player = ({ playerData,coins,setCoins}) => {
+const Player = ({ playerData,coins,setCoins,selectedPlayers, setSelectedPlayers}) => {
     // console.log(playerData);
     return (
         <div >
              <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-4'>
             {
-                playerData.map(player=><Card key={player.id} player={player} coins={coins} setCoins={setCoins} ></Card>)
+                playerData.map(player=><Card key={player.id} player={player} coins={coins} setCoins={setCoins} selectedPlayers={selectedPlayers} setSelectedPlayers={setSelectedPlayers}  ></Card>)
             }
             
             </div> 

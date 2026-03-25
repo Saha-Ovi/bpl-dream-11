@@ -2,10 +2,11 @@ import React, { useState } from 'react';
 import { FaFlag, FaUser } from 'react-icons/fa';
 import { toast } from 'react-toastify';
 
-const Card = ({player,coins,setCoins}) => {
+const Card = ({player,coins,setCoins,selectedPlayers, setSelectedPlayers}) => {
     /**
       * use state used to control selected or choose button using onclick to change state
  */
+// console.log(selectedPlayers);
     const[isSelected,setIsSelected]=useState(false);
     const handleState=()=>
     {
@@ -16,6 +17,7 @@ const Card = ({player,coins,setCoins}) => {
             setCoins(newCoins);
             toast.success(`${player.name}is selected`);
             setIsSelected(true);
+            setSelectedPlayers([...selectedPlayers,player]);
         }
         else
         {
