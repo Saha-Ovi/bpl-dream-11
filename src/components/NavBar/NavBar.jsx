@@ -2,7 +2,7 @@ import React from 'react';
 import navImg from "../../assets/logo.png"
 import curImg from "../../assets/Currency.png"
 
-const NavBar = () => {
+const NavBar = ({coins}) => {
     return (
         <div className='container mx-auto'>
             <div className="navbar ">
@@ -17,7 +17,7 @@ const NavBar = () => {
                             <li><a href="">Schedules</a></li>
                         </ul>
                     <button className="btn">
-                       <p>0 coins</p>
+                       <p>{coins} Coins</p>
                        <img src={curImg} alt="" />
                     </button>
                 </div>

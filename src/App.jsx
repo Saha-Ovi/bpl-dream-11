@@ -1,8 +1,9 @@
-import { Suspense } from 'react'
+import { Suspense, useState } from 'react'
 import './App.css'
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers'
 import Banner from './components/Banner/Banner'
 import NavBar from './components/NavBar/NavBar'
+ import { ToastContainer, toast } from 'react-toastify';
 
 const fetchPlayer= async()=>
 {
@@ -12,10 +13,11 @@ const fetchPlayer= async()=>
 
 function App() {
   const playerPromise=fetchPlayer();
+  const [coins,setCoins]=useState(30000);
   return (
     <>
     <header>
-    <NavBar></NavBar>
+    <NavBar coins={coins}></NavBar>
     <Banner></Banner>
     </header>
 
@@ -26,7 +28,7 @@ function App() {
       <span className="loading loading-ring loading-xl scale-300"></span>
     </div>
   }>
-      <AvailablePlayers playerPromise={playerPromise}></AvailablePlayers>
+      <AvailablePlayers playerPromise={playerPromise} coins={coins} setCoins={setCoins}></AvailablePlayers>
     </Suspense>
     </main>
 
@@ -35,7 +37,7 @@ function App() {
     </footer>
  
       
-     
+     <ToastContainer />
     </>
   )
 }

@@ -1,7 +1,27 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { FaFlag, FaUser } from 'react-icons/fa';
+import { toast } from 'react-toastify';
 
-const Card = ({player}) => {
+const Card = ({player,coins,setCoins}) => {
+    /**
+      * use state used to control selected or choose button using onclick to change state
+ */
+    const[isSelected,setIsSelected]=useState(false);
+    const handleState=()=>
+    {
+        const newCoins=(coins - player.price);
+        if(newCoins>=0)
+        {
+          
+            setCoins(newCoins);
+            toast.success(`${player.name}is selected`);
+            setIsSelected(true);
+        }
+        else
+        {
+            toast.error("Not Enough Coins");
+        }
+    }
     return (
         <div>
             <div className="card bg-base-100 shadow-sm border border-gray-400">
@@ -25,8 +45,12 @@ const Card = ({player}) => {
                         <p className='text-right font-bold'> {player.bowling_style} </p>
                     </div>
                     <div className="card-actions justify-between items-center">
-                        <p className='font-semibold text-md'>Price: {player.price} </p>
-                        <button className="btn btn-base">Choose Player</button>
+                        <p className='font-semibold text-md'>Price:${player.price} </p>
+                        {/* disabled={isSelected?true:false} */}
+                        {/* onClick={()=>setIsSelected(true)} =>primary when coin and set coin state come then call a function to solve all work */}
+                        <button onClick={handleState} disabled={isSelected} className="btn btn-base">
+                            {isSelected?"Selected":"Choose Player"}
+                        </button>
                     </div>
                 </div>
             </div>

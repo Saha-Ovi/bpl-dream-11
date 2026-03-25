@@ -7,7 +7,7 @@
     "rating": 95,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium",
-    "price": "$2.5M",
+    "price": 29000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170661/virat-kohli.jpg",
     "alt": "Virat Kohli profile image"
   },
@@ -19,7 +19,7 @@
     "rating": 93,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$2.3M",
+    "price": 23000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170658/rohit-sharma.jpg",
     "alt": "Rohit Sharma profile image"
   },
@@ -31,7 +31,7 @@
     "rating": 94,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$2.2M",
+    "price": 7000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/babar-azam.jpg",
     "alt": "Babar Azam profile image"
   },
@@ -43,7 +43,7 @@
     "rating": 93,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$2M",
+    "price": 15000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170648/joe-root.jpg",
     "alt": "Joe Root profile image"
   },
@@ -55,7 +55,7 @@
     "rating": 94,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak",
-    "price": "$2.3M",
+    "price": 23000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170650/steve-smith.jpg",
     "alt": "Steve Smith profile image"
   },
@@ -67,7 +67,7 @@
     "rating": 92,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$2M",
+    "price": 20000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170652/kane-williamson.jpg",
     "alt": "Kane Williamson profile image"
   },
@@ -79,7 +79,7 @@
     "rating": 91,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "price": "$1.8M",
+    "price": 18000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170645/shakib-al-hasan.jpg",
     "alt": "Shakib Al Hasan profile image"
   },
@@ -91,7 +91,7 @@
     "rating": 92,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast-medium",
-    "price": "$2.1M",
+    "price": 28000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170646/ben-stokes.jpg",
     "alt": "Ben Stokes profile image"
   },
@@ -103,7 +103,7 @@
     "rating": 89,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium-fast",
-    "price": "$1.9M",
+    "price": 19000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170660/hardik-pandya.jpg",
     "alt": "Hardik Pandya profile image"
   },
@@ -115,7 +115,7 @@
     "rating": 90,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "price": "$2M",
+    "price": 13000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170659/ravindra-jadeja.jpg",
     "alt": "Ravindra Jadeja profile image"
   },
@@ -128,7 +128,7 @@
     "rating": 88,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price": "$1.7M",
+    "price": 17000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170642/andre-russell.jpg",
     "alt": "Andre Russell profile image"
   },
@@ -140,7 +140,7 @@
     "rating": 93,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price": "$2.2M",
+    "price": 26000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170662/jasprit-bumrah.jpg",
     "alt": "Jasprit Bumrah profile image"
   },
@@ -152,7 +152,7 @@
     "rating": 91,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast",
-    "price": "$2M",
+    "price": 12000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170636/shaheen-afridi.jpg",
     "alt": "Shaheen Afridi profile image"
   },
@@ -164,7 +164,7 @@
     "rating": 92,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast",
-    "price": "$2.1M",
+    "price": 21000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/mitchell-starc.jpg",
     "alt": "Mitchell Starc profile image"
   },
@@ -176,7 +176,7 @@
     "rating": 90,
     "batting_style": "Right-hand bat",
     "bowling_style": "Left-arm fast-medium",
-    "price": "$1.9M",
+    "price": 19000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170653/trent-boult.jpg",
     "alt": "Trent Boult profile image"
   },
@@ -189,7 +189,7 @@
     "rating": 91,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast",
-    "price": "$2M",
+    "price": 20000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170654/kagiso-rabada.jpg",
     "alt": "Kagiso Rabada profile image"
   },
@@ -201,7 +201,7 @@
     "rating": 90,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm legbreak",
-    "price": "$1.8M",
+    "price": 18000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170649/david-warner.jpg",
     "alt": "David Warner profile image"
   },
@@ -213,7 +213,7 @@
     "rating": 91,
     "batting_style": "Right-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$2M",
+    "price": 20000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170647/jos-buttler.jpg",
     "alt": "Jos Buttler profile image"
   },
@@ -225,7 +225,7 @@
     "rating": 89,
     "batting_style": "Left-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$1.7M",
+    "price": 17000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170655/quinton-de-kock.jpg",
     "alt": "Quinton de Kock profile image"
   },
@@ -237,7 +237,7 @@
     "rating": 90,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$1.9M",
+    "price": 19000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170657/glenn-maxwell.jpg",
     "alt": "Glenn Maxwell profile image"
   },
@@ -250,7 +250,7 @@
     "rating": 88,
     "batting_style": "Right-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$1.5M",
+    "price": 15000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170644/mushfiqur-rahim.jpg",
     "alt": "Mushfiqur Rahim profile image"
   },
@@ -262,7 +262,7 @@
     "rating": 87,
     "batting_style": "Left-hand bat",
     "bowling_style": "None",
-    "price": "$1.4M",
+    "price": 14000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/tamim-iqbal.jpg",
     "alt": "Tamim Iqbal profile image"
   },
@@ -274,7 +274,7 @@
     "rating": 86,
     "batting_style": "Right-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$1.3M",
+    "price": 13000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/litton-das.jpg",
     "alt": "Litton Das profile image"
   },
@@ -286,7 +286,7 @@
     "rating": 85,
     "batting_style": "Right-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.2M",
+    "price": 7000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170640/mahmudullah.jpg",
     "alt": "Mahmudullah profile image"
   },
@@ -298,7 +298,7 @@
     "rating": 88,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast",
-    "price": "$1.6M",
+    "price": 16000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/mustafizur-rahman.jpg",
     "alt": "Mustafizur Rahman profile image"
   },
@@ -311,7 +311,7 @@
     "rating": 92,
     "batting_style": "Right-hand bat",
     "bowling_style": "Legbreak",
-    "price": "$2.2M",
+    "price": 22000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170638/rashid-khan.jpg",
     "alt": "Rashid Khan profile image"
   },
@@ -323,7 +323,7 @@
     "rating": 88,
     "batting_style": "Right-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.6M",
+    "price": 16000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170637/mohammad-nabi.jpg",
     "alt": "Mohammad Nabi profile image"
   },
@@ -335,7 +335,7 @@
     "rating": 87,
     "batting_style": "Right-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.5M",
+    "price": 15000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170634/mujeeb-ur-rahman.jpg",
     "alt": "Mujeeb Ur Rahman profile image"
   },
@@ -348,7 +348,7 @@
     "rating": 89,
     "batting_style": "Left-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.8M",
+    "price": 18000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170633/chris-gayle.jpg",
     "alt": "Chris Gayle profile image"
   },
@@ -360,7 +360,7 @@
     "rating": 88,
     "batting_style": "Right-hand bat",
     "bowling_style": "Medium",
-    "price": "$1.7M",
+    "price": 17000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170632/kieron-pollard.jpg",
     "alt": "Kieron Pollard profile image"
   },
@@ -373,7 +373,7 @@
     "rating": 95,
     "batting_style": "Right-hand bat",
     "bowling_style": "Medium",
-    "price": "$2.5M",
+    "price": 25000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170631/ab-de-villiers.jpg",
     "alt": "AB de Villiers profile image"
   },
@@ -385,7 +385,7 @@
     "rating": 89,
     "batting_style": "Right-hand bat",
     "bowling_style": "Legbreak",
-    "price": "$1.7M",
+    "price": 17000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/faf-du-plessis.jpg",
     "alt": "Faf du Plessis profile image"
   },
@@ -398,7 +398,7 @@
     "rating": 89,
     "batting_style": "Right-hand bat",
     "bowling_style": "Fast",
-    "price": "$1.5M",
+    "price": 15000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170629/lasith-malinga.jpg",
     "alt": "Lasith Malinga profile image"
   },
@@ -410,7 +410,7 @@
     "rating": 87,
     "batting_style": "Right-hand bat",
     "bowling_style": "Medium",
-    "price": "$1.4M",
+    "price": 14000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170628/angelo-mathews.jpg",
     "alt": "Angelo Mathews profile image"
   },
@@ -423,7 +423,7 @@
     "rating": 88,
     "batting_style": "Right-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.6M",
+    "price": 16000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170627/martin-guptill.jpg",
     "alt": "Martin Guptill profile image"
   },
@@ -435,7 +435,7 @@
     "rating": 87,
     "batting_style": "Right-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.5M",
+    "price": 15000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170626/ross-taylor.jpg",
     "alt": "Ross Taylor profile image"
   },
@@ -448,7 +448,7 @@
     "rating": 89,
     "batting_style": "Right-hand bat",
     "bowling_style": "Offbreak",
-    "price": "$1.7M",
+    "price": 17000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170625/aaron-finch.jpg",
     "alt": "Aaron Finch profile image"
   },
@@ -460,7 +460,7 @@
     "rating": 91,
     "batting_style": "Right-hand bat",
     "bowling_style": "Fast",
-    "price": "$2M",
+    "price": 20000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/pat-cummins.jpg",
     "alt": "Pat Cummins profile image"
   },
@@ -473,7 +473,7 @@
     "rating": 90,
     "batting_style": "Right-hand bat",
     "bowling_style": "Fast",
-    "price": "$1.9M",
+    "price": 19000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170623/jofra-archer.jpg",
     "alt": "Jofra Archer profile image"
   },
@@ -485,7 +485,7 @@
     "rating": 88,
     "batting_style": "Left-hand bat",
     "bowling_style": "Medium",
-    "price": "$1.6M",
+    "price": 16000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170622/eoin-morgan.jpg",
     "alt": "Eoin Morgan profile image"
   },
@@ -498,7 +498,7 @@
     "rating": 92,
     "batting_style": "Right-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$2M",
+    "price": 10000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170621/mohammad-rizwan.jpg",
     "alt": "Mohammad Rizwan profile image"
   },
@@ -510,7 +510,7 @@
     "rating": 88,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm",
-    "price": "$1.6M",
+    "price": 7000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170620/fakhar-zaman.jpg",
     "alt": "Fakhar Zaman profile image"
   },
@@ -523,7 +523,7 @@
     "rating": 89,
     "batting_style": "Left-hand bat",
     "bowling_style": "Wicketkeeper",
-    "price": "$1.7M",
+    "price": 17000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170619/nicholas-pooran.jpg",
     "alt": "Nicholas Pooran profile image"
   },
@@ -535,7 +535,7 @@
     "rating": 88,
     "batting_style": "Right-hand bat",
     "bowling_style": "Fast-medium",
-    "price": "$1.8M",
+    "price": 11000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170618/jason-holder.jpg",
     "alt": "Jason Holder profile image"
   },
@@ -547,7 +547,7 @@
     "rating": 87,
     "batting_style": "Right-hand bat",
     "bowling_style": "Fast",
-    "price": "$1.6M",
+    "price": 10000,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170617/alzarri-joseph.jpg",
     "alt": "Alzarri Joseph profile image"
   }
